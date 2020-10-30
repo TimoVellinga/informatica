@@ -1,0 +1,40 @@
+FONTS: 
+(index)
+https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap
+(HTML)
+https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap
+(CSS)
+https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap
+
+IMAGES: 
+(index)
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSMzxALNRB1N5MXiUiZQhfOIg16SvzWJ1JEzw&usqp=CAU (Logo) Bijbehornde link: https://3000-cbb8a994-3bd1-473b-8eea-8fff98fa3aa8.ws-eu01.gitpod.io/PO/index.html
+https://i.ytimg.com/vi/CkI_rhA9w9U/maxresdefault.jpg (CSS plaatje) Bijbehorende link: https://www.youtube.com/watch?v=yr7b3Gt8k-E
+https://i.ytimg.com/vi/yr7b3Gt8k-E/hqdefault.jpg (HTML plaatje) Bijbehorende link: https://www.youtube.com/watch?v=yr7b3Gt8k-E
+https://i.pinimg.com/originals/44/69/c7/4469c769cb0d648dedccabe24d6fab8e.jpg (MCDonalds advertentie) Bijbehorende link: https://www.mcdonalds.com/nl/nl-nl.html
+https://mir-s3-cdn-cf.behance.net/project_modules/disp/d0446e13032701.5627006a6f4a4.jpg (NesCafe advertentie) Bijbehorende link: https://www.nescafe.com/nl/
+
+(HTML)
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSMzxALNRB1N5MXiUiZQhfOIg16SvzWJ1JEzw&usqp=CAU (Logo) Bijbehornde link: https://3000-cbb8a994-3bd1-473b-8eea-8fff98fa3aa8.ws-eu01.gitpod.io/PO/index.html
+https://henryegloff.com/media/How-to-Code-a-Basic-Webpage-Using-HTML-Tutorial-2.jpg (HTMLPlaatje rechts)
+https://repository-images.githubusercontent.com/134285701/635de980-586d-11ea-9220-1a3211239c30 (HTMLPlaatje links)
+https://i.pinimg.com/originals/c6/b9/da/c6b9da9595a8315cf3c0803a65bfde22.jpg (Lays advertentie) Bijbehorende link: https://lays.nl/nl
+https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/7_Up_-_You_like_it%2C_it_likes_you%2C_1948.jpg/1200px-7_Up_-_You_like_it%2C_it_likes_you%2C_1948.jpg (7up advertentie) Bijbehorende link: https://7up.nl/
+
+(CSS)
+https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSMzxALNRB1N5MXiUiZQhfOIg16SvzWJ1JEzw&usqp=CAU (Logo) Bijbehornde link: https://3000-cbb8a994-3bd1-473b-8eea-8fff98fa3aa8.ws-eu01.gitpod.io/PO/index.html
+https://miro.medium.com/max/2560/1*D9YKlFGZKiYoR57tUTpCrg.jpeg (CSSPlaatje rechts)
+https://cdn.mos.cms.futurecdn.net/Vp9WvV7YKdH4k8sKRePcE8-320-80.jpg (CSSPlaatje links)
+https://images.nrc.nl/jt8str_QI7khk4KKLQZhi-Ilksc=/1280x/filters:no_upscale()/s3/static.nrc.nl/bvhw/files/2020/08/web-1408cul-jap-zap.jpg (Haribo advertentie) Bijbehorende link: https://www.haribo.com/en
+https://assets.fontsinuse.com/static/use-media-items/10/9568/full-1024x1360/567021cb/1970-Coke-Is-The-Real-Thing-Coca-Cola-Ad.jpeg?resolution=0 (Coca Cola advertentie) Bijbehorende link: https://www.coca-colacompany.com/
+https://i.pinimg.com/originals/b9/d7/56/b9d75677bff1962dbe84e5345e066462.png (Albert Heijn advertentie)  Bijbehorende link: https://www.ah.nl/
+
+INFORMATIE:
+https://en.wikipedia.org/wiki/HTML
+https://en.wikipedia.org/wiki/CSS
+https://www.w3schools.com/html/
+https://www.w3schools.com/CSS/
+https://www.w3schools.com/
++ Google zoekopdrachten over een specifiek element hoe het werkt.
+
+

@@ -1,0 +1,336 @@
+html,body {
+    width: 100%;
+    height: 100%;
+}
+body {
+    background-image: url("https://i1.wp.com/static.web-backgrounds.net/uploads/2012/08/City_Landscape_Background.jpg");
+    background-size: cover;
+}
+
+
+#container {
+    background-color: #669DB3FF;
+    background-image: radial-gradient(#669DB3FF, #F0F6F7FF);
+    width: 80%;
+    height: 80%;
+    margin-left: 150px;
+    border-bottom: 2px solid black;
+}
+
+#menu {
+    width: 1522px;
+    height: 77px;
+    background-color: white;
+    display: flex;
+}
+
+h1 {
+    color: black;
+    font-family: 'Open Sans Condensed', sans-serif;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 25px;
+}
+
+h2 {
+    color: black;
+    font-family: 'Open Sans Condensed', sans-serif;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 25px;
+    margin-block-start: -210px;
+}
+
+h3 {
+    color: black;
+    font-family: 'Open Sans Condensed', sans-serif;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 25px;
+    margin-block-start: -203px;
+}
+
+.h2 {
+    color: blue;
+    font-family: 'Open Sans Condensed', sans-serif;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 25px;
+    margin-block-start: -210px;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.h3 {
+    color: green;
+    font-family: 'Open Sans Condensed', sans-serif;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 25px;
+    margin-block-start: -210px;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+#reclame {
+    background-color: #F0F6F7FF;
+    background-image: linear-gradient(#F0F6F7FF, #669DB3FF);
+    height: 683px;
+    border-left: 2px solid black;
+    margin-left: 30px;
+    width: 251px;
+}
+
+#welkom {
+    width: 100%;
+    height: 100%;
+    border-top: 2px solid black;
+    display: flex;
+}
+
+#hoofdpagina {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+.reclame {
+    padding-left: 10px;
+}
+
+.menu {
+    display: flex;
+}
+
+.imagemenu {
+    height: 77px;
+    width: 147px;
+}
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    }
+#tekst1 {
+    
+    width: 50px;
+    /*
+    margin-left: 40px;
+    margin-block-start: -43px;
+    */
+}
+#tekst2 {
+    display: flex;
+    width: 50px;
+    /*
+    margin-left: -280px;
+    */
+}
+#tekst3 {
+    width: 50px;
+    
+    /*
+    display: flex;
+    margin-left: 1125px;
+    margin-block-start: -43px;
+    */
+}
+
+.menutekst {
+    color: #2E9CCA;
+    font-size: 60px;
+    text-decoration: none;
+    margin-top: 0px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+
+.menuplaatje {
+    margin-left: 500px;
+    margin-top: 0px;
+}
+
+#Tekstblok1 {
+    width: 500px;
+    height: 280px;
+    background-color: white;
+    margin-left: 65px;
+    margin-top: 50px;
+    border-radius: 10%;
+    border: 2px solid whitesmoke;
+    box-shadow: 4px 7px 15px black;
+}
+
+#Tekstblok2 {
+    border: 0px;
+    width: 500px;
+    height: 280px;
+    background-color: white;
+    margin-left: 170px;
+    margin-top: 360px;
+    border-radius: 10%;
+    box-shadow: 4px 7px 15px black;
+    display: inline;
+}
+
+#Tekstblok3 {
+    width: 500px;
+    height: 300px;
+    background-color: white;
+    margin-left: 65px;
+    margin-top: 50px;
+    border-radius: 10%;
+    border: 2px solid whitesmoke;
+    box-shadow: 4px 7px 15px black;
+}
+
+#Tekstblok4 {
+    border: 0px;
+    width: 500px;
+    height: 260px;
+    background-color: white;
+    margin-left: 170px;
+    margin-top: 380px;
+    border-radius: 10%;
+    box-shadow: 4px 7px 15px black;
+    display: inline;
+}
+
+#Tekstblok5 {
+    width: 500px;
+    height: 260px;
+    background-color: white;
+    margin-left: 65px;
+    margin-top: 50px;
+    border-radius: 10%;
+    border: 2px solid whitesmoke;
+    box-shadow: 4px 7px 15px black;
+}
+
+#Tekstblok6 {
+    border: 0px;
+    width: 500px;
+    height: 310px;
+    background-color: white;
+    margin-left: 170px;
+    margin-top: 360px;
+    border-radius: 10%;
+    box-shadow: 4px 7px 15px black;
+    display: inline;
+}
+
+.imageadvert1 {
+    width: 240px;
+    height: 305,8px;
+    padding: 5px;
+}
+
+.imageadvert2 {
+    width: 240px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.imageadvert3 {
+    width: 240px;
+    height: 305,8px;
+    padding: 5px;
+}
+
+.imageadvert4 {
+    width: 240px;
+    height: 305,8px;
+    padding-top: 35px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+}
+
+#contactbalk {
+    margin-block-start: -76px;
+}
+
+.contactbalk {
+    width: 1522px;
+}
+
+.CSSplaatje {
+    margin-block-end: 250px;
+    margin-left: 60px;
+    margin-block-start: -300px;
+    width: 360px;
+    height: 270px;
+    border: 2px solid #464866;
+    border-radius: 15%;
+}
+.HTMLplaatje1 {
+    margin-block-end: 279px;
+    margin-left: 20px;
+    margin-block-start: -300px;
+    width: 440px;
+    height: 220px;
+    border: 2px solid #464866;
+    border-radius: 15%;
+}
+
+.HTMLplaatje {
+    margin-left: 60px;
+    margin-block-start: -600px;
+    margin-block-end: -305px;
+    width: 360px;
+    height: 270px;
+    border: 2px solid #464866;
+    border-radius: 15%;
+}
+.CSSplaatje1 {
+    margin-block-end: 279px;
+    margin-left: 20px;
+    margin-block-start: -300px;
+    width: 440px;
+    height: 220px;
+    border: 2px solid #464866;
+    border-radius: 15%;
+}
+
+.HTMLplaatje2 {
+    margin-left: 60px;
+    margin-block-start: -600px;
+    margin-block-end: -273px;
+    width: 360px;
+    height: 270px;
+    border: 2px solid #464866;
+    border-radius: 15%;
+}
+
+.CSSplaatje2 {
+    margin-left: 60px;
+    margin-block-start: -600px;
+    margin-block-end: -250px;
+    width: 360px;
+    height: 270px;
+    border: 2px solid #464866;
+    border-radius: 15%;
+}
+
+.boxtekst2 {
+    margin-block-start: -250px;
+    margin-block-end: 2500px;
+    padding-bottom: 500px;
+}
+
+.boxtekst4 {
+    margin-block-start: -260px;
+    margin-block-end: 2520px;
+    padding-bottom: 500px;
+}
+
+.boxtekst1 {
+    margin-block-start: 500px;
+}
+
+.lettertype {
+    font-family: fantasy;
+    font-size: 25px;
+
+}

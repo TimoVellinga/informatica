@@ -1,0 +1,77 @@
+        #container {
+            display: flex;
+            background-color:slategrey;
+            padding: -10px;
+            margin-left: -50px;
+            margin-right: -50px;
+            margin-block-start: -50px;
+        }
+        .textbox {
+            width: 250px;
+            height: 400px;
+            background-color: whitesmoke;
+            /* background-size: 250px 250px; */
+            /* background-size: 100%; */
+            background-size: cover; /* probeer ook eens cover */
+            background-repeat: repeat;
+            background-position: center; 
+            margin: 100px 300px;
+            border: 10px solid black;
+            position: relative;
+        }
+        .anderebox {
+            width: 250px;
+            height: 400px;
+            background-color: whitesmoke;
+            /* background-size: 250px 250px; */
+            /* background-size: 100%; */
+            background-size: cover; /* probeer ook eens cover */
+            background-repeat: repeat;
+            background-position: center; 
+            margin: 100px 250px;
+            border: 10px solid black;
+            position: relative;
+            margin-block-start: -520px;
+            margin-left: 1350px;
+        }
+        h2 {
+            margin-left: 50px;
+            margin-bottom: 10px;
+            font-family: cursive;
+        }
+
+        .fonts {
+            font-family: cursive;
+        }
+        h1 {
+            font-family: monospace;
+            font-size: 60px;
+            margin-block-end: -16px;
+            margin-left: 750px;
+            margin-block-start: -10px;
+        }
+        #titel {
+            background-color: black;
+            color: whitesmoke;
+            margin-left: -25px;
+            margin-block-end: 50px;
+            margin-right: -50px;
+        }
+        .foto {
+            margin-left: 500px;
+        }
+        .nogeenbox {
+            width: 240px;
+            height: 240px;
+            background-color: whitesmoke;
+            /* background-size: 250px 250px; */
+            /* background-size: 100%; */
+            background-size: cover; /* probeer ook eens cover */
+            background-repeat: repeat;
+            background-position: center; 
+            margin: 100px 250px;
+            border: 10px solid black;
+            position: relative;
+            margin-block-start: -360px;
+            margin-left: 800px;
+        }
